@@ -9,6 +9,7 @@ There are three big repositories:
 
 install.packages(c("ggplot2", "devtools", "lme4"))
 
-
+update.packages()
+install.packages("packagename")
 
 
