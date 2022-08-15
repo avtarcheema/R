@@ -8,3 +8,7 @@ There are three big repositories:
 3. GitHub: A very popular, open source repository (not R specific!)
 
 install.packages(c("ggplot2", "devtools", "lme4"))
+
+
+
+
